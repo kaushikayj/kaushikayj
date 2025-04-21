@@ -1,7 +1,7 @@
 
 <!-- Profile Header (Replace the image link with your own banner for a more personal touch!) -->
 <p align="center">
-  <img src="https://readme-hero-images.vercel.app/api?username=YourUsername&theme=dracula&font=Exo+2&center=true" alt="Profile Banner" width="100%" />
+  <img src="https://readme-hero-images.vercel.app/api?username=kaushikayj&theme=dracula&font=Exo+2&center=true" alt="Profile Banner" width="100%" />
 </p>
 
 <h1 align="center">
@@ -35,8 +35,8 @@
 
 ### 📈 GitHub Stats & Streaks
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushikayj&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kaushikayj&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -46,18 +46,18 @@
 > <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" width="400"/>
 >
 > 🗓️ Visited my profile?  
-> ![Visitor Count](https://profile-counter.glitch.me/YourUsername/count.svg)
+> ![Visitor Count](https://profile-counter.glitch.me/kaushikayj/count.svg)
 
 ---
 
 ### 🛠️ Featured Projects
 <!-- Showcase your top repositories with neat badges -->
 <p align="center">
-  <a href="https://github.com/YourUsername/featured-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=featured-project&theme=tokyonight" />
+  <a href="https://github.com/kaushikayj/featured-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaushikayj&repo=featured-project&theme=tokyonight" />
   </a>
-  <a href="https://github.com/YourUsername/another-cool-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=another-cool-project&theme=tokyonight" />
+  <a href="https://github.com/kaushikayj/another-cool-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaushikayj&repo=another-cool-project&theme=tokyonight" />
   </a>
 </p>
 
