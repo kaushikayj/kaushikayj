@@ -36,29 +36,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kaushikayj&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
----
 
-### ✨ Fun Zone!
-> 🧩 *Random Dev Quote*:  
-> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" width="400"/>
->
-> 🗓️ Visited my profile?  
-> ![Visitor Count](https://profile-counter.glitch.me/kaushikayj/count.svg)
 
 ---
 
-### 🛠️ Featured Projects
-<!-- Showcase your top repositories with neat badges -->
-<p align="center">
-  <a href="https://github.com/kaushikayj/featured-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaushikayj&repo=featured-project&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/kaushikayj/another-cool-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaushikayj&repo=another-cool-project&theme=tokyonight" />
-  </a>
-</p>
 
----
 
 ### ✉️ Let's Connect!
 - 💬 Ask me about:  
