@@ -1,11 +1,8 @@
 
-<!-- Profile Header (Replace the image link with your own banner for a more personal touch!) -->
-<p align="center">
-  <img src="https://readme-hero-images.vercel.app/api?username=kaushikayj&theme=dracula&font=Exo+2&center=true" alt="Profile Banner" width="100%" />
-</p>
+
 
 <h1 align="center">
-  <span style="display:inline-block;transform:rotate(-4deg);font-size:1.3em;">👋</span> Hi, I'm <span style="color:#6C63FF;">Your Name</span>!
+  <span style="display:inline-block;transform:rotate(-4deg);font-size:1.3em;">👋</span> Hi, I'm <span style="color:#6C63FF;">Kaushika YJ</span>!
 </h1>
 <p align="center">
   <samp>Innovator | Code Artisan | Life-long Learner 🚀</samp>
