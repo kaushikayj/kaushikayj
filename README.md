@@ -22,7 +22,7 @@
 ```javascript
 const kaushika = {
   degree: "B.Tech in CSE (Artificial Intelligence & Machine Learning)",
-  year: "Pre-final Year",
+  year: "Final Year",
   skills: ["Machine Learning", "Data Analytics", "Problem Solving"],
   languages: ["Python", "Java", "SQL"],
   tools: ["Scikit-learn", "Pandas", "Tableau", "Excel"],
