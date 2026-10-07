@@ -21,12 +21,12 @@
 
 ```javascript
 const kaushika = {
-  degree: "B.Tech in CSE (Artificial Intelligence & Machine Learning)",
-  year: "Final Year",
-  skills: ["Machine Learning", "Data Analytics", "Problem Solving"],
-  languages: ["Python", "Java", "SQL"],
-  tools: ["Scikit-learn", "Pandas", "Tableau", "Excel"],
-  interests: ["ML Model Building", "Data Analysis", "AI Projects"],
+  degree: "B.Tech in Information Technology",
+  role: "Technical Operations Engineer @ Amagi",
+  skills: ["Linux", "AWS", "SQL", "Python"],
+  languages: ["Python", "C++", "Java", "SQL"],
+  tools: ["Grafana", "AWS MediaLive", "AWS MediaConnect", "Git"],
+  interests: ["Software Development", "Cloud & Systems", "Machine Learning"],
   motto: "Learning by doing 🚀"
 };
 
